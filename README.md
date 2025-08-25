@@ -7,8 +7,11 @@ Ademas de poseer conocimientos en Bases de Datos SQL y NoSQL.
 
 ## Mas acerca de mí
 📍 **Location:** Tingo Maria - Perú
+
 📧 **Email:** melendezcastilloemer@gmail.com
+
 👦 **Age:** 21
+
 💖**Fan de futbol, autos, musica**
 
 ### Lenguajes
