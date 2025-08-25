@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi everyone 👋
 
-<!--
-**Benwhite7/Benwhite7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer **Full Stack Developer**
 
-Here are some ideas to get you started:
+Hola, soy Benjamin Melendez, dessarrollador de software principalmente Java Script, apasionado por las tecnologias y innovacion y sobretodo las buenas practicas. Llevo buen tiempo desarrollando en Frameworks como Angular, Next, Vue, etc.
+Ademas de poseer conocimientos en Bases de Datos SQL y NoSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mas acerca de mí
+📍 **Location:** Tingo Maria - Perú
+📧 **Email:** melendezcastilloemer@gmail.com
+👦 **Age:** 21
+💖**Fan de futbol, autos, musica**
+
+### Lenguajes
+- JavaScript
+- TypeScript
+- SQL
+
+### FrameWorks 
+- Next
+- Angular
+- Vue
+- Node Js
+- Express Js
+
