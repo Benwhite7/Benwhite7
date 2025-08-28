@@ -30,5 +30,5 @@ Ademas de poseer conocimientos en Bases de Datos SQL y NoSQL.
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=BenWhite7&layout=compact&theme=tokyonight)
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
