@@ -16,7 +16,6 @@ Ademas de poseer conocimientos en Bases de Datos SQL y NoSQL.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
 ### 🔨 FrameWorks 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -30,3 +29,6 @@ Ademas de poseer conocimientos en Bases de Datos SQL y NoSQL.
 ### Lenguajes mas usados
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=BenWhite7&layout=compact&theme=tokyonight)
 
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
