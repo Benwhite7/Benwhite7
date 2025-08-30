@@ -31,12 +31,12 @@ Ademas de poseer conocimientos en Bases de Datos SQL y NoSQL.
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Benwhite7/mi-cuarta-repo](https://github.com/Benwhite7/mi-cuarta-repo)<br>
-2. 📔 Created new repository [Benwhite7/mi-cuarta-repo](https://github.com/Benwhite7/mi-cuarta-repo)<br>
-3. ❗️ Opened issue [#1](https://github.com/Benwhite7/-miTercerRepo/issues/1) in [Benwhite7/-miTercerRepo](https://github.com/Benwhite7/-miTercerRepo)<br>
-4. 📔 Created new repository [Benwhite7/-miTercerRepo](https://github.com/Benwhite7/-miTercerRepo)<br>
-5. ⬆️ Pushed 1 commit(s) to [Benwhite7/Benwhite7](https://github.com/Benwhite7/Benwhite7)<br>
+1. ✌️ Released [v0.1.0](https://github.com/Benwhite7/App-GitHub/releases/tag/V0.1.0) in [Benwhite7/App-GitHub](https://github.com/Benwhite7/App-GitHub)<br>
+2. ⬆️ Pushed 1 commit(s) to [Benwhite7/App-GitHub](https://github.com/Benwhite7/App-GitHub)<br>
+3. 📔 Created new repository [Benwhite7/App-GitHub](https://github.com/Benwhite7/App-GitHub)<br>
+4. ⬆️ Pushed 2 commit(s) to [Benwhite7/mi-cuarta-repo](https://github.com/Benwhite7/mi-cuarta-repo)<br>
+5. ⬆️ Pushed 1 commit(s) to [Benwhite7/mi-cuarta-repo](https://github.com/Benwhite7/mi-cuarta-repo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 30th, 2025, 1:51:39 AM
+Last Updated: Saturday, August 30th, 2025, 12:46:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
