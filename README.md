@@ -31,12 +31,12 @@ Ademas de poseer conocimientos en Bases de Datos SQL y NoSQL.
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Benwhite7/repo-github-prueba](https://github.com/Benwhite7/repo-github-prueba)<br>
+1. ⬆️ Pushed 1 commit(s) to [Benwhite7/Proyecto-calculadora](https://github.com/Benwhite7/Proyecto-calculadora)<br>
 2. ⬆️ Pushed 1 commit(s) to [Benwhite7/repo-github-prueba](https://github.com/Benwhite7/repo-github-prueba)<br>
-3. 📔 Created new repository [Benwhite7/repo-github-prueba](https://github.com/Benwhite7/repo-github-prueba)<br>
-4. ✌️ Released [v0.1.0](https://github.com/Benwhite7/App-GitHub/releases/tag/V0.1.0) in [Benwhite7/App-GitHub](https://github.com/Benwhite7/App-GitHub)<br>
-5. ⬆️ Pushed 1 commit(s) to [Benwhite7/App-GitHub](https://github.com/Benwhite7/App-GitHub)<br>
+3. ⬆️ Pushed 1 commit(s) to [Benwhite7/repo-github-prueba](https://github.com/Benwhite7/repo-github-prueba)<br>
+4. 📔 Created new repository [Benwhite7/repo-github-prueba](https://github.com/Benwhite7/repo-github-prueba)<br>
+5. ✌️ Released [v0.1.0](https://github.com/Benwhite7/App-GitHub/releases/tag/V0.1.0) in [Benwhite7/App-GitHub](https://github.com/Benwhite7/App-GitHub)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 26th, 2025, 1:26:48 PM
+Last Updated: Saturday, September 27th, 2025, 1:49:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
