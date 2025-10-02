@@ -32,10 +32,7 @@ Ademas de poseer conocimientos en Bases de Datos SQL y NoSQL.
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Benwhite7/Proyecto-calculadora](https://github.com/Benwhite7/Proyecto-calculadora)<br>
-2. ⬆️ Pushed 1 commit(s) to [Benwhite7/repo-github-prueba](https://github.com/Benwhite7/repo-github-prueba)<br>
-3. ⬆️ Pushed 1 commit(s) to [Benwhite7/repo-github-prueba](https://github.com/Benwhite7/repo-github-prueba)<br>
-4. 📔 Created new repository [Benwhite7/repo-github-prueba](https://github.com/Benwhite7/repo-github-prueba)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 2nd, 2025, 1:52:55 AM
+Last Updated: Thursday, October 2nd, 2025, 12:50:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
