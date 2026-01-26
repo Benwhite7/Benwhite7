@@ -32,10 +32,7 @@ Ademas de poseer conocimientos en Bases de Datos SQL y NoSQL.
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [tusitio-com-pe/tusitio-com](https://github.com/tusitio-com-pe/tusitio-com)<br>
-2. ⬆️ Pushed undefined commit(s) to [tusitio-com-pe/tusitio-com](https://github.com/tusitio-com-pe/tusitio-com)<br>
-3. ⬆️ Pushed undefined commit(s) to [tusitio-com-pe/tusitio-com](https://github.com/tusitio-com-pe/tusitio-com)<br>
-4. ⬆️ Pushed undefined commit(s) to [tusitio-com-pe/tusitio-com](https://github.com/tusitio-com-pe/tusitio-com)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 26th, 2026, 2:32:40 AM
+Last Updated: Monday, January 26th, 2026, 1:04:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
