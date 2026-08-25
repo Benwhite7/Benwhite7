@@ -31,12 +31,12 @@ Ademas de poseer conocimientos en Bases de Datos SQL y NoSQL.
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Benwhite7/Proyecto-bodas](https://github.com/Benwhite7/Proyecto-bodas)<br>
-2. ⬆️ Pushed undefined commit(s) to [Benwhite7/Proyecto-bodas](https://github.com/Benwhite7/Proyecto-bodas)<br>
-3. ⬆️ Pushed undefined commit(s) to [Benwhite7/Proyecto-bodas](https://github.com/Benwhite7/Proyecto-bodas)<br>
-4. ⬆️ Pushed undefined commit(s) to [Benwhite7/Proyecto-bodas](https://github.com/Benwhite7/Proyecto-bodas)<br>
-5. ⬆️ Pushed undefined commit(s) to [Benwhite7/Proyecto-bodas](https://github.com/Benwhite7/Proyecto-bodas)<br>
+1. ⬆️ Pushed undefined commit(s) to [Benwhite7/bodas-invitaciones](https://github.com/Benwhite7/bodas-invitaciones)<br>
+2. ⬆️ Pushed undefined commit(s) to [Benwhite7/bodas-invitaciones](https://github.com/Benwhite7/bodas-invitaciones)<br>
+3. ⬆️ Pushed undefined commit(s) to [Benwhite7/bodas-invitaciones](https://github.com/Benwhite7/bodas-invitaciones)<br>
+4. ⬆️ Pushed undefined commit(s) to [Benwhite7/bodas-invitaciones](https://github.com/Benwhite7/bodas-invitaciones)<br>
+5. ⬆️ Pushed undefined commit(s) to [Benwhite7/bodas-invitaciones](https://github.com/Benwhite7/bodas-invitaciones)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 24th, 2026, 1:03:24 PM
+Last Updated: Tuesday, August 25th, 2026, 1:41:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
